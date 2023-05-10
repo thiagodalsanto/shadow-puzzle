@@ -27,6 +27,12 @@ Controle as sombras para passar pelas quatro fases do jogo. A primeira fase é b
 * Respawn automático na mesma fase em casos de queda da plataforma ou cair em armadilhas
 * Ambientação através de Post-Processing e VFX de Audio progressivo
 
+## Download
+Para Windows: [v0.1.0](https://github.com/thiagodalsanto/shadow-puzzle/releases/tag/untagged-1e9d3bf4b923b4952f28)
+
+Para Linux: [v0.1.0](https://github.com/thiagodalsanto/shadow-puzzle/releases/tag/untagged-257afa54e9e3c4b0c93d)
+
+
 ## Imagens *In-Game*
 
 Fase 02 - Desviando de plataformas invisíveis descobrindo seus posicionamentos através de suas sombras.
@@ -34,6 +40,8 @@ Fase 02 - Desviando de plataformas invisíveis descobrindo seus posicionamentos 
 
 Fase 04 - Plataformas invisiveis com posicionamento fixo sendo necessário descobrir seus posicionamentos através de controle das *SpotLights* e ao mesmo tempo necessitando desviar dos lasers.
 ![Fase04](https://i.imgur.com/rbftFj4.png)  
+
+
 
 
 Jogo desevolvido por [Thiago](https://github.com/thiagodalsanto) e [Jair](https://github.com/Evon09).
