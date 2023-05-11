@@ -12,7 +12,7 @@ Jogo em primeira pessoa, baseado no controle de sombras para a resolução de pu
 ## Descrição do Game
 Controle as sombras para passar pelas quatro fases do jogo. A primeira fase é baseada no controle dos pontos de luz para identificar onde estão as plataformas invisíveis através das sombras. A segunda fase o jogador deve subir em uma plataforma e advinhar onde estão os obstaculos invisĩveis para desviar deles. Na terceira fase é necessário interagir com botôes para identificar quais números são formados pelas sombras, e descobrir a senha para sair da sala. Na fase final, existem lasers como obstaculos, o objetivo é o mesmo da primeira fase, só que desta vez com armadilhas, e com uma fase mais extensa. 
 
-## Comandos
+## Comandos 
 * WASD ou setas para Andar
 * Espaço para Pular
 * E para Interagir com o Mapa
