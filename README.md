@@ -28,9 +28,9 @@ Controle as sombras para passar pelas quatro fases do jogo. A primeira fase é b
 * Ambientação através de Post-Processing e VFX de Audio progressivo
 
 ## Download
-Para Windows: [v0.1.0](https://github.com/thiagodalsanto/shadow-puzzle/releases/tag/Windows-v0.1.0)
+Para Windows: [v1.0.0](https://github.com/thiagodalsanto/shadow-puzzle/releases/tag/Windows-v0.1.0)
 
-Para Linux: [v0.1.0](https://github.com/thiagodalsanto/shadow-puzzle/releases/tag/Linux-v0.1.0)
+Para Linux: [v1.0.0](https://github.com/thiagodalsanto/shadow-puzzle/releases/tag/Linux-v0.1.0)
 
 
 ## Imagens *In-Game*
