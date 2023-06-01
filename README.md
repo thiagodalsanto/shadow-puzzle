@@ -5,7 +5,7 @@ Jogo em primeira pessoa, baseado no controle de sombras para a resolução de pu
 
 ## Sobre o trabalho:
 
-* Disciplina: OP63F-C71 - Realidade Virtual
+* Disciplina: OP63F-CC8 - Realidade Virtual
 * Turma: 2023/1 - 7º Período
 * Docente: Jorge Aikes Junior
 
